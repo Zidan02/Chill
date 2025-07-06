@@ -39,7 +39,7 @@ Chill is a PHP and MySQL based web platform for watching movies and series onlin
 
 For any questions or support, please contact:
 
-- Email: cmajedulhasan02@gmail.com
+- Email: majedulhasan02@gmail.com
 - Phone: +880153119896
 
 © 2023 Chill. All rights reserved.
