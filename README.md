@@ -80,9 +80,3 @@
 For questions or support, reach out:
 
 * 📧 Email: [majedulhasan02@gmail.com](mailto:majedulhasan02@gmail.com)
-* 📞 Phone: +880153119896
-
----
-
-©️ **2023 Chill** – All rights reserved.
-
