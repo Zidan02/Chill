@@ -9,7 +9,7 @@
   <a href="https://github.com/Zidan02/Chill/commits"><img src="https://img.shields.io/github/last-commit/Zidan02/Chill?style=flat-square" alt="Last Commit"></a>
   <img src="https://img.shields.io/badge/PHP-7.4+-8892BF?style=flat-square&logo=php" alt="PHP Badge"/>
   <img src="https://img.shields.io/badge/MySQL-5.7+-4479A1?style=flat-square&logo=mysql" alt="MySQL Badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat-square&logo=bootstrap" alt="Bootstrap Badge"/>
+  <img src="https://img.shields.io/badge/Bootstrap-5.3.0-7952B3?style=flat-square&logo=bootstrap" alt="Bootstrap Badge"/>
   <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square" alt="License Badge"/>
 </p>
 
