@@ -1,7 +1,3 @@
-Thanks for the clarification! Since your website has only one UI mode, I’ve removed the dark/light toggle section and adjusted the `README.md` accordingly. Here’s your cleaned-up and improved version with **badges** and a **UI screenshot section (single mode only)**:
-
----
-
 # 🎬 **Chill** – Stream Movies & Series Online
 
 > A **PHP + MySQL** based platform for watching movies & series with a clean, responsive interface for both users and admins.
@@ -75,13 +71,5 @@ Thanks for the clarification! Since your website has only one UI mode, I’ve re
 
 For questions or support, reach out:
 
-* 📧 Email: [cmajedulhasan02@gmail.com](mailto:cmajedulhasan02@gmail.com)
+* 📧 Email: [majedulhasan02@gmail.com](mailto:majedulhasan02@gmail.com)
 * 📞 Phone: +880153119896
-
----
-
-©️ **2023 Chill** – All rights reserved.
-
----
-
-Would you like me to export this as a ready-to-use `.md` file or generate real badges based on a GitHub repository?
