@@ -1,45 +1,79 @@
-# Chill
+# 🎬 **Chill** – Stream Movies & Series Online
 
-Chill is a PHP and MySQL based web platform for watching movies and series online. It provides a user-friendly interface for browsing, searching, and filtering movies by genre, year, and name. The platform supports both admin and user roles with distinct functionalities.
+> A **PHP + MySQL** based platform for watching movies & series with a clean, responsive interface for both users and admins.
 
-## Features
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-7.4+-8892BF.svg?style=flat&logo=php" alt="PHP Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-5.7+-4479A1.svg?style=flat&logo=mysql" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3.svg?style=flat&logo=bootstrap" alt="Bootstrap Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License Badge"/>
+</p>
 
-- User registration and profile management
-- Movie browsing with search and filter options by genre and year
-- Admin dashboard for uploading and managing movies
-- Viewing uploaded movies and sales statistics for admin
-- Secure sign-in and sign-out functionality
-- Responsive design using Bootstrap for a seamless experience on all devices
+---
 
-## Technologies Used
+## 🌓 UI Theme Preview
 
-- PHP for server-side scripting
-- MySQL for database management
-- Bootstrap 5 for frontend styling and responsive design
-- HTML, CSS, and JavaScript for frontend development
+| Light Mode                                                                | Dark Mode                                                               |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| ![Light Mode](https://via.placeholder.com/300x180.png?text=Light+Mode+UI) | ![Dark Mode](https://via.placeholder.com/300x180.png?text=Dark+Mode+UI) |
 
-## Installation and Setup
+> *(Replace with actual screenshots of your UI in light and dark mode)*
 
-1. Clone or download the repository to your local machine.
-2. Set up a local web server environment (e.g., XAMPP, WAMP, or MAMP) with PHP and MySQL.
-3. Create a MySQL database named `chill`.
-4. Import the `chill.sql` file into your MySQL database to set up the necessary tables and data.
-5. Update the database connection settings in `components/dbconnect.php` if needed (default is localhost, root user, no password).
-6. Place the project files in the web server's root directory (e.g., `htdocs` for XAMPP).
-7. Start the web server and navigate to the project URL (e.g., `http://localhost/chill/userHome.php`).
+---
 
-## Usage
+## 🚀 Features
 
-- Users can browse movies on the homepage, search by keywords, or filter by genre and year.
-- Admins can log in to access the admin dashboard to upload new movies and view sales data.
-- Users can view individual movie details and make payments to access content.
-- Use the navigation bar to access different sections like New Movies, Profile, and Sign Out.
+* 👤 User registration & profile management
+* 🎞️ Browse & search movies by **genre**, **year**, or **title**
+* 🛠️ Admin dashboard for uploading & managing content
+* 📊 View sales statistics and uploaded movies (admin only)
+* 🔒 Secure login/logout system
+* 📱 Fully responsive design using **Bootstrap 5**
 
-## Contact
+---
 
-For any questions or support, please contact:
+## 🛠️ Technologies Used
 
-- Email: majedulhasan02@gmail.com
-- Phone: +880153119896
+| Language    | Purpose               |
+| ----------- | --------------------- |
+| PHP         | Backend (server-side) |
+| MySQL       | Database management   |
+| HTML/CSS    | Frontend structure    |
+| JavaScript  | Frontend interactions |
+| Bootstrap 5 | Responsive design     |
 
-© 2023 Chill. All rights reserved.
+---
+
+## 📦 Installation Guide
+
+1. **Clone/Download** the repository
+2. Set up a local server using **XAMPP**, **WAMP**, or **MAMP**
+3. Create a MySQL database named: `chill`
+4. Import `chill.sql` to your database
+5. Configure DB credentials in `components/dbconnect.php`
+
+   * Default: `localhost`, `root`, no password
+6. Place project files in web root (e.g., `htdocs`)
+7. Start the server and visit:
+   📍 `http://localhost/chill/userHome.php`
+
+---
+
+## 🎯 How to Use
+
+* 🧭 Browse or filter movies from the homepage
+* 🔍 Search by **title**, **genre**, or **year**
+* 🔐 Admins log in to manage content & view analytics
+* 🎥 Users can view details, make payments, and stream content
+* 🧭 Navigate via top navbar: `Home` | `New Movies` | `Profile` | `Sign Out`
+
+---
+
+## 📬 Contact
+
+For questions or support, reach out:
+
+* 📧 Email: [majedulhasan02@gmail.com](mailto:majedulhasan02@gmail.com)
+* 📞 Phone: +880153119896
+
+
