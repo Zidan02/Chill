@@ -3,17 +3,21 @@
 > A **PHP + MySQL** based platform for watching movies & series with a clean, responsive interface for both users and admins.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-7.4+-8892BF.svg?style=flat&logo=php" alt="PHP Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-5.7+-4479A1.svg?style=flat&logo=mysql" alt="MySQL Badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3.svg?style=flat&logo=bootstrap" alt="Bootstrap Badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License Badge"/>
+  <a href="https://github.com/Zidan02/Chill/stargazers"><img src="https://img.shields.io/github/stars/Zidan02/Chill?style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/Zidan02/Chill/network/members"><img src="https://img.shields.io/github/forks/Zidan02/Chill?style=flat-square" alt="Forks"></a>
+  <a href="https://github.com/Zidan02/Chill/issues"><img src="https://img.shields.io/github/issues/Zidan02/Chill?style=flat-square" alt="Issues"></a>
+  <a href="https://github.com/Zidan02/Chill/commits"><img src="https://img.shields.io/github/last-commit/Zidan02/Chill?style=flat-square" alt="Last Commit"></a>
+  <img src="https://img.shields.io/badge/PHP-7.4+-8892BF?style=flat-square&logo=php" alt="PHP Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-5.7+-4479A1?style=flat-square&logo=mysql" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat-square&logo=bootstrap" alt="Bootstrap Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square" alt="License Badge"/>
 </p>
 
 ---
 
 ## 🖼️ UI Preview
 
-> *(Insert an actual screenshot below once available)*
+> *(Replace this with an actual screenshot of your UI)*
 
 ![UI Screenshot](https://via.placeholder.com/600x350.png?text=Chill+Web+App+UI)
 
@@ -44,14 +48,18 @@
 
 ## 📦 Installation Guide
 
-1. **Clone/Download** the repository
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Zidan02/Chill.git
+   ```
 2. Set up a local server using **XAMPP**, **WAMP**, or **MAMP**
 3. Create a MySQL database named: `chill`
 4. Import `chill.sql` to your database
 5. Configure DB credentials in `components/dbconnect.php`
 
    * Default: `localhost`, `root`, no password
-6. Place project files in web root (e.g., `htdocs`)
+6. Place project files in your server’s root directory (e.g., `htdocs`)
 7. Start the server and visit:
    📍 `http://localhost/chill/userHome.php`
 
@@ -63,7 +71,7 @@
 * 🔍 Search by **title**, **genre**, or **year**
 * 🔐 Admins log in to manage content & view analytics
 * 🎥 Users can view details, make payments, and stream content
-* 🧭 Navigate via top navbar: `Home` | `New Movies` | `Profile` | `Sign Out`
+* 🧭 Use the top navbar to navigate: `Home`, `New Movies`, `Profile`, `Sign Out`
 
 ---
 
@@ -73,3 +81,8 @@ For questions or support, reach out:
 
 * 📧 Email: [majedulhasan02@gmail.com](mailto:majedulhasan02@gmail.com)
 * 📞 Phone: +880153119896
+
+---
+
+©️ **2023 Chill** – All rights reserved.
+
